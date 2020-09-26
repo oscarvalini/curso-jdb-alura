@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/home/oscar/Downloads/c3p0-JARs/c3p0-0.9.5.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/oscar/Downloads/c3p0-JARs/mchange-commons-java-0.2.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
